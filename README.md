@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱 I’m currently a student  and new to dev work
+🌱 I’m currently an ML/AI student
 
 <!--
 **shamiim611/shamiim611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
